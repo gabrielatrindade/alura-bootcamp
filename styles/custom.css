@@ -1,0 +1,28 @@
+<style>
+
+div.introduction {
+	background-color: #e0e0d1; 
+	padding: 10px;
+	}
+
+div.decision {
+	background-color: #ccddff; 
+	padding: 10px;
+	}
+
+div.insight {
+	background-color: #ffffb3;
+	padding: 10px;
+	}
+
+div.hypothesis {
+	background-color: #ffcccc;
+	padding: 10px;
+	}
+
+div.hypothesisConclusion {
+	background-color: #cfc; 
+	padding: 10px;
+	}
+
+</style>
